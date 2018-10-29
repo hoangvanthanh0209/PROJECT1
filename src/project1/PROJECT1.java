@@ -20,6 +20,8 @@ public class PROJECT1 {
         System.out.println("cc");
 
         System.out.println("dm thanh");
+        
+        System.out.println("aa");
     }
     
 }
