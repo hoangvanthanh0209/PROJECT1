@@ -16,8 +16,10 @@ public class PROJECT1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("xl");
+
         System.out.println("cc");
+
+        System.out.println("dm thanh");
     }
     
 }
